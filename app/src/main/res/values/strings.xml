@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TiKi Display Keyword</string>
+    <string name="error_lost_network_connection">No internet connection. Please check your network.</string>
+    <string name="hot_keyword">Từ khoá hot</string>
+</resources>
